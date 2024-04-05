@@ -48,4 +48,4 @@ I would like to add Javascript in the futre to turn this into a more interactabl
 ## Author
 
 - Website - [Ryan King](https://ryanking-portfolio.netlify.app/)
-- Frontend Mentor - [@MsftKings](https://www.frontendmentor.io/profile/MsftKings)
+- Frontend Mentor - [@MsftKing](https://www.frontendmentor.io/profile/MsftKing)
