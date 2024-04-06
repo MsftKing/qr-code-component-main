@@ -45,6 +45,11 @@ div > img{
     border-radius: 3%;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 h1 { 
 
     text-align: center;
@@ -73,8 +78,9 @@ p {
 
 }
 
-a{
-    color: var()
+.attribution{
+    margin: 3px 3px 3px 3px;
+    padding: auto;
 }
 
 @media  (max-width:375px ) {
@@ -107,9 +113,10 @@ a{
         border-radius: 3%;
         }
 
-    img {
-        max-width: 288px;
-    }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
     
 }
 
